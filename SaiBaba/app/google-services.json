@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "386300834155",
+    "firebase_url": "https://saibaba-f3dce.firebaseio.com",
+    "project_id": "saibaba-f3dce",
+    "storage_bucket": "saibaba-f3dce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386300834155:android:530c024dedd2c604",
+        "android_client_info": {
+          "package_name": "com.example.sourabh.saibaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386300834155-hqui1qrufgardek3hppq5vqrtpa4spq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sourabh.saibaba",
+            "certificate_hash": "5c24ca61fe79885d29fc3a5d0ccdbfcc250ffde4"
+          }
+        },
+        {
+          "client_id": "386300834155-j12dsm9tlk1du6vu9p098mjm121rkmgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzJKlCm9Z_WuwytJQ9gmYMygEqTsCWJO4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386300834155-j12dsm9tlk1du6vu9p098mjm121rkmgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
